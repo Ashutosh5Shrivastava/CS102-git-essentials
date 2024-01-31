@@ -4,3 +4,4 @@ git add to add the file in repository
 git status to see status of repository
 git -commit to permanently store files
 git push to store files on server
+Git is used for managing projects. In today's lecture we learned about the commands mentioned above.
