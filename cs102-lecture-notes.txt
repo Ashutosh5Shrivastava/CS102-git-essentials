@@ -1,0 +1,6 @@
+Git --version to see the version
+Git --clone to clone repository
+git add to add the file in repository
+git status to see status of repository
+git -commit to permanently store files
+git push to store files on server
